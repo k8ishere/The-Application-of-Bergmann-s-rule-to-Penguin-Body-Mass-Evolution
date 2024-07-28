@@ -1,0 +1,57 @@
+epoch	epoch_code	species	mya_max	mya_min	mya_avg	avg_temp	location	loc_col	measurement 	mm	body_mass	lower_95	upper_95		
+paleocene	7	kupoupou_stilwelli 	62.5	60.0	61.25	14.02789686	new_zealand	green	FPW 	26.70	16.17	10.90975805	28.1205313		
+paleocene	7	kumimanu_biceae	61.6	60.5	61.05	14.07616526	new_zealand	green	FPW 	45.00	71.62	52.50239174	135.3279461		
+paleocene	7	crossvallia_waiparensis	61.0	61.0	61.00	14.16450667	new_zealand	green	HPW	48.50	39.18				
+paleocene	7	sequiwaimanu_rosieae	61.0	61.0	61.00	14.16450667	new_zealand	green	FL	104.30	15.61	9.302017936	26.20043873		
+paleocene	7	crossvallia_unienwillia	59.2	59.2	59.20	14.71024667	antartica	blue	FPW 	41.80	58.04	42.04854677	108.3825571		
+paleocene	7	muriwaimanu_tuatahi 	60.0	58.0	59.00	12.89458077	new_zealand	green	FL	104.00	15.44	9.201321105	25.91681197		51.70
+paleocene	7	Kumimanu fordycei 	59.5	55.5	57.50	13.57135719	new_zealand	green	HPW	83.50	159.65				
+paleocene	7	petradyptes_stonehousei 	59.5	55.5	57.50	13.57135719	new_zealand	green	FPW 	36.00	37.91	26.821487276	69.133932095		
+eocene	6	kaiika_maxwelli 	55.8	49.3	52.55	15.88796551	new_zealand	green	HPW	42.10	27.17				33.54
+eocene	6	palaeeudyptes_gunnari	55.0	34.0	44.50	12.06518702	antartica 	blue	FPW 	36.10	38.21	27.0463691	69.71357798		
+eocene	6	palaeeudyptes_klekowskii 	54.0	34.0	44.00	11.84032684	antartica	blue	FL	134.40	39.68	24.24733755	68.29602846		
+eocene	6	anthropornis_grandis 	53.0	34.0	43.50	11.70311595	antartica	blue	HL	194.20	82.49				
+eocene	6	anthropornis_nordenskjoeldi	53.0	34.0	43.50	11.70311595	antartica	blue	FPW 	41.00	54.93	39.67254333	102.2582711		
+eocene	6	marambiornis_exilis	53.0	34.0	43.50	11.70311595	antartica	blue	FL	98.00	12.34	7.350778526	20.70449914		
+eocene	6	mesetaornis_polaris	53.0	34.0	43.50	11.70311595	antartica	blue	FPW 	21.00	8.16	5.295408016	13.64921991		
+eocene	6	delphinornis_larseni 	53.0	34.0	43.50	9.573282886	antartica	blue	FPW 	11.40	1.43	0.841997716	2.170297729		
+eocene	6	perudyptes_devriesi	42.0	42.0	42.00	12.43174857	peru	yellow	HPW	31.50	12.84				
+eocene	6	archaeospheniscus_wimani 	50.0	34.0	42.00	11.41446271	antartica	blue	FPW 	29.30	21.08	14.43067179	37.19588975		
+eocene	6	delphinornis_gracilis	41.0	34.0	37.50	10.16917837	antartica	blue	FL	83.20	6.65	3.95968186	11.15299956		
+eocene	6	incadyptes_salasi	37.2	35.7	36.45	9.563002092	peru	yellow	HPW	61.70	73.01				
+eocene	6	inkayaku_paracacensis	37.2	35.7	36.45	9.563002092	peru	yellow	FL	145.90	55.50	33.06709257	93.13810603		
+eocene	6	aprosdokitos_mikrotero 	38.0	34.0	36.00	9.573282886	antartica	blue	HL	50.80	1.56				
+eocene	6	palaeeudyptes_marplesi	38.0	34.0	36.00	9.57	new_zealand	green	FL	142.90	51.31	30.57038672	86.10578366		
+eocene	6	tonniornis_mesetaensis	37.8	34.0	35.90	14.07616526	antartica	blue	HL	105.00	13.35				
+eocene	6	Tonniornis minimum 	37.8	34.0	35.90	9.566026587	antartica	blue	HL	93.60	9.50				
+eocene	6	pachydyptes_ponderosus 	36.0	30.0	33.00	7.705330539	new_zealand	green	HPW	68.20	94.60				
+oligocene	5	palaeeudyptes_antarcticus 	38	28	33	7.69295667	new_zealand	green	HPW	49	40.23				38.66
+oligocene	5	kairuku_grebneffi	27.3	25.2	26.25	8.115160408	new_zealand	green	FPW 	48.30	87.63	64.96648398	167.4548635		
+oligocene	5	kairuku_waitaki	34.5	27.3	26.25	7.511705199	new_zealand	green	FPW 	46.80	80.09	59.08114839	152.2850713		
+oligocene	5	kairuku_waewaeroa	34.0	27.3	26.25	7.427734379	new_zealand	green	FL	156.20	71.81	42.78992955	120.5238406		
+oligocene	5	archaeospheniscus_lowei 	27.0	25.0	26.00	8.272868425	new_zealand	green	FL	115.30	22.80	13.58685293	38.26927771		
+oligocene	5	archaeospheniscus_lopdelli	27.0	25.0	26.00	8.272868425	new_zealand	green	FL	128.00	33.84	20.16493947	56.79738145		
+oligocene	5	platydyptes_amiesi 	26.0	24.0	25.00	8.799636932	new_zealand	green	HPW	41.20	25.70				
+oligocene	5	platydyptes_novaezealandiae	26.0	24.0	25.00	8.799636932	new_zealand	green	HPW	33.00	14.48				
+oligocene	5	platydyptes_marplesi	27.0	22.0	24.50	8.285053218	new_zealand	green	HL	88.80	8.13				
+oligocene	5	arthrodytes_andrewsi	25.0	22.0	23.50	8.292811231	argentina	green	HL	142.00	32.64				
+oligocene	5	paraptenodytes_robustus	25	22	23.5	8.292811231	argentina 	green	HL	88.1	7.94				
+miocene	4	eretiscus_tonni 	23.0	20.4	21.72	8.070702323	argentina	green	HL	40.80	0.81				13.33
+miocene	4	palaeospheniscus_bergi	23.0	20.4	21.72	8.070702323	argentina 	green	HL	67.00	3.53				
+miocene	4	palaeospheniscus_biloculata	23.0	20.4	21.72	8.070702323	argentina 	green	HL	90.30	8.54				
+miocene	4	palaeospheniscus_patagonicus	23.0	20.4	21.72	8.070702323	argentina 	green	FL	84.00	6.89	4.105482912	11.56366868		
+miocene	4	paraptenodytes_antarcticus	23.0	20.4	21.72	8.070702323	argentina 	green	HL	114.10	17.08				
+miocene	4	anthropodyptes_gilli	21.0	17.6	19.30	7.667878165	australia	green	HL	165.00	50.92				
+miocene	4	spheniscus_urbinai 	23.0	5.0	14.00	7.141948893	argentina	green	FL	116.50	23.71	14.12895561	39.79618599		
+miocene	4	spheniscus_muizoni	13.0	11.0	12.00	6.732084579	peru	yellow	FPW 	17.60	4.93	3.111822257	8.02090154		
+miocene	4	madrynornis_mirandus	11.4	9.0	10.20	6.052050072	argentina	green	HPW	21.50	4.78				
+miocene	4	marplesornis_novaezealandiae	12.7	2.4	7.55	4.798296878	new_zealand	green	HL	101.50	12.08				
+pliocene	3	inguza_predemersus 	5.0	5.0	5.00	5.282578676	south_africa	green	FL	63.00	2.32	1.384405663	3.899372803		
+pliocene	3	dege_hendeyi 	5.3	3.6	4.45	4.798771409	south_africa	green	FL	75.13	4.52	2.692949133	7.585069092		
+pliocene	3	tereingaornis_moisleyi 	4.0	3.0	3.50	4.41901381	new_zealand	green	HL	65.00	3.23				
+pliocene	3	eudyptes_atatu	3.3	3.0	3.15	4.326996579	new_zealand	green	HPW	22.60	5.44				
+pliocene	3	spheniscus_chilensis	3.6	2.6	3.10	3.944239732	chile	yellow	FL	78.00	5.21	3.102768011	8.739381467		
+pliocene	3	aptenodyres_ridgeni 	4.0	2.0	3.00	3.621279513	new_zealand	green	FL	133.33	39.48	23.52593327	66.26409208		
+pliocene	3	pygoscelis_tyreei  	4.0	2.0	3.00	3.621279513	new_zealand	green	HL	89.20	8.24				
+holocene	1	eudyptes_warhami	2.0	0.0	1.00	1.810802575	new_zealand	green	HL	69.10	3.87				
+															
